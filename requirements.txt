@@ -1,1 +1,4 @@
-
+flask
+groq
+requests
+gunicorn
